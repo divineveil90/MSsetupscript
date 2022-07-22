@@ -1,5 +1,5 @@
 # MSsetupscript
-Simple MSP script that automatically runs, confirms, and installs various .msi files and Windows updates. Directly after this script is ran, the device is joined to Azure AD.
+Simple Powershell script that automatically runs, confirms, and installs various .msi files and Windows updates. Directly after this script is ran, the device is joined to Azure AD. It's not the prettiest but it performs everything it needs to.
 Company links, such as Datto RMM or Webroot, are omitted due to security reasons.
 
 Thing(s) that could be improved:
